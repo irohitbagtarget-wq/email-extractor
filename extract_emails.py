@@ -6,7 +6,7 @@ import csv
 # ============ SETTINGS ============
 INPUT_FILE = "only_contact_links.txt"      # Badi wali file
 OUTPUT_FILE = "extracted_emails.csv"
-DELAY = 3                              # seconds (agar garam ho to 4-5 kar dena)
+DELAY = 1                              # seconds (agar garam ho to 2-3 kar dena)
 
 def extract_emails(text):
     """Text se sab emails nikaal ke list return karta hai"""
