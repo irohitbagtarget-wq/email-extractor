@@ -4,7 +4,7 @@ import time
 import csv
 
 # ============ SETTINGS ============
-INPUT_FILE = "test_20_links.txt"      # 20 links wali file
+INPUT_FILE = "only_contact_links.txt"      # Badi wali file
 OUTPUT_FILE = "extracted_emails.csv"
 DELAY = 3                              # seconds (agar garam ho to 4-5 kar dena)
 
